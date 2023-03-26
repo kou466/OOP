@@ -1,8 +1,11 @@
 using System;
 
-namespace Stack_report {
-    internal class Program1 {
-        static void Main(string[] args) {
+namespace Stack_report
+{
+    internal class Program1
+    {
+        static void Main(string[] args)
+        {
             char[] parking = new char[5];
             int top = 0;
 
